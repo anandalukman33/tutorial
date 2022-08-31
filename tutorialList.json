@@ -1,21 +1,29 @@
 [
-    {
-      "id": 1,
-      "title": "Cara Mendapatkan Poin ketika Nonton Anime",
-      "description": "<p>Pertama-tama ketika kalian di halaman detail, pastikan switch mode on</p><p><img src=\"https://i.ibb.co/Hrw3krK/1.png\" alt=\"\" width=\"337\" height=\"152\" /></p><p>lalu pilih episode mana yang ingin kamu tonton, disini kalian perlu menunggu 10 menit untuk memunculkan tombol claim</p><p><img src=\"https://i.ibb.co/WVkZ2TT/2.png\" alt=\"\" width=\"213\" height=\"73\" /></p><p>silahkan diklik tombol claim poin tersebut, nanti akan dialihkan ke halaman claim poin.</p><p>disitu kalian perlu klik tombol buka iklan, sampai iklan muncul, kalian perlu klik iklannya terlebih dahulu!&nbsp;</p><p><img src=\"https://i.ibb.co/QY7FN0r/3.png\" alt=\"\" width=\"112\" height=\"59\" /></p><p>nanti akan ada tampilan laporan poin yang kamu dapati ketika sudah mengklik iklan.</p><p><img src=\"https://i.ibb.co/pvVDtFV/4.png\" alt=\"\" width=\"238\" height=\"128\" /></p><p>Selamat kamu sudah mendapatkan poin hehe...</p>",
-      "containVideo": true,
-      "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121236&authkey=AOmqoIyRX6Sgn1g",
-      "titleVideo": "Biar Paham Lihat Video Ini",
-      "thumbnailVideo": "https://img.freepik.com/free-vector/youtube-tutorial-concept-illustration_114360-2807.jpg"
-
-    },
-    {
-      "id": 2,
-      "title": "Cara Mendownload Episode",
-      "description": "<p>Cara ini <strong>tetap</strong> <strong>membutuhkan koneksi internet</strong> <strong>yah</strong>, karena data semua ada di server backend.</p><p>Jadi pertama - tama buka halaman detail Anime (pilih anime yang ingin kalian download episodenya)</p><p>Klik tahan pada list sampai keluar pop up seperti ini</p><p><img src=\"https://i.ibb.co/HKwxYt8/5.png\" alt=\"\" width=\"285\" height=\"285\" /></p><p>&nbsp;</p><p>Klik tombol download.</p><p>Tunggu sampai indikator di notifikasi sampai full atau keluar notifikasi kalau episode tersebut sudah selesai terdownload.</p><p>Selamat Episode tersebut ketika diplay sudah tidak membutuhkan data koneksi ketika streaming.</p><p><strong>Note</strong>: sebenernya sama aja ketika kalian play episode, cuman ini request dari seseorang supaya memudahkan ketika ada kuota banyak tapi belum mau nonton sekarang...</p>",
-      "containVideo": true,
-      "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121237&authkey=ADc2Fnc-ag6YOsY",
-      "titleVideo": "Sama aja kayak nonton biasanya, cuman bisa download dahulu tanpa nonton",
-      "thumbnailVideo": "https://webdevolutions.blob.core.windows.net/cms/Remote_Desktop_Manager_Setting_Offline_Mode_9b6dfa994d.png"
-    }
-  ]
+  {
+    "id": 1,
+    "title": "Catatan Feature di Obasaka!",
+    "description": "<p>Versi 17.+&nbsp;</p><ul><li>Revamp Player Video Episode Anime</li><li>Pembaharuan Claim Poin</li><li>Penambahan komentar disetiap episode Anime</li><li>Penambahan feature download episode</li><li>Penambahan halaman Tutorial</li></ul>",
+    "containVideo": false,
+    "urlVideo": "",
+    "titleVideo": "",
+    "thumbnailVideo": ""
+  },
+  {
+    "id": 2,
+    "title": "Cara Mendapatkan Poin ketika Nonton Anime",
+    "description": "<p>Pertama-tama ketika kalian di halaman detail, pastikan switch mode on</p><p><img src=\"https://i.ibb.co/Hrw3krK/1.png\" alt=\"\" width=\"337\" height=\"152\" /></p><p>lalu pilih episode mana yang ingin kamu tonton, disini kalian perlu menunggu 10 menit untuk memunculkan tombol claim</p><p><img src=\"https://i.ibb.co/WVkZ2TT/2.png\" alt=\"\" width=\"213\" height=\"73\" /></p><p>silahkan diklik tombol claim poin tersebut, nanti akan dialihkan ke halaman claim poin.</p><p>disitu kalian perlu klik tombol buka iklan, sampai iklan muncul, kalian perlu klik iklannya terlebih dahulu!&nbsp;</p><p><img src=\"https://i.ibb.co/QY7FN0r/3.png\" alt=\"\" width=\"112\" height=\"59\" /></p><p>nanti akan ada tampilan laporan poin yang kamu dapati ketika sudah mengklik iklan.</p><p><img src=\"https://i.ibb.co/pvVDtFV/4.png\" alt=\"\" width=\"238\" height=\"128\" /></p><p>Selamat kamu sudah mendapatkan poin hehe...</p>",
+    "containVideo": true,
+    "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121236&authkey=AOmqoIyRX6Sgn1g",
+    "titleVideo": "Biar Paham Lihat Video Ini",
+    "thumbnailVideo": "https://img.freepik.com/free-vector/youtube-tutorial-concept-illustration_114360-2807.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Cara Mendownload Episode",
+    "description": "<p>Cara ini <strong>tetap</strong> <strong>membutuhkan koneksi internet</strong> <strong>yah</strong>, karena data semua ada di server backend.</p><p>Jadi pertama - tama buka halaman detail Anime (pilih anime yang ingin kalian download episodenya)</p><p>Klik tahan pada list sampai keluar pop up seperti ini</p><p><img src=\"https://i.ibb.co/HKwxYt8/5.png\" alt=\"\" width=\"285\" height=\"285\" /></p><p>&nbsp;</p><p>Klik tombol download.</p><p>Tunggu sampai indikator di notifikasi sampai full atau keluar notifikasi kalau episode tersebut sudah selesai terdownload.</p><p>Selamat Episode tersebut ketika diplay sudah tidak membutuhkan data koneksi ketika streaming.</p><p><strong>Note</strong>: sebenernya sama aja ketika kalian play episode, cuman ini request dari seseorang supaya memudahkan ketika ada kuota banyak tapi belum mau nonton sekarang...</p>",
+    "containVideo": true,
+    "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121237&authkey=ADc2Fnc-ag6YOsY",
+    "titleVideo": "Sama aja kayak nonton biasanya, cuman bisa download dahulu tanpa nonton",
+    "thumbnailVideo": "https://webdevolutions.blob.core.windows.net/cms/Remote_Desktop_Manager_Setting_Offline_Mode_9b6dfa994d.png"
+  }
+]
