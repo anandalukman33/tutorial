@@ -1,37 +1,48 @@
 [
     {
-         "id": 1,
-         "title": "Cara Mendapatkan Poin ketika Nonton Anime",
-         "description": "Gampang nuyul aja",
-         "containVideo": true,
-         "urlYoutube": "W6I1xm49Lpw"
-        },
-        {
-            "id": 2,
-            "title": "Cara Nonton Anime dengan Auto Next Episode",
-            "description": "Klik tombol Eps.Berikutnya",
-            "containVideo": false,
-            "urlYoutube": ""
-        },
-        {
-            "id": 3,
-            "title": "Cara Mendapatkan Poin ketika Nonton Anime",
-            "description": "Gampang nuyul aja",
-            "containVideo": true,
-            "urlYoutube": "W6I1xm49Lpw"
-        },
-        {
-            "id": 4,
-            "title": "Cara Mendapatkan Poin ketika Nonton Anime",
-            "description": "Gampang nuyul aja",
-            "containVideo": true,
-            "urlYoutube": "W6I1xm49Lpw"
-        },
-        {
-            "id": 5,
-            "title": "Cara Mendapatkan Poin ketika Nonton Anime",
-            "description": "Gampang nuyul aja",
-            "containVideo": true,
-            "urlYoutube": "W6I1xm49Lpw"
-        }
-    ]
+      "id": 1,
+      "title": "Cara Mendapatkan Poin ketika Nonton Anime",
+      "description": "Gampang nuyul aja",
+      "containVideo": true,
+      "urlVideo": "W6I1xm49Lpw",
+      "titleVideo": "",
+      "thumbnailVideo": ""
+
+    },
+    {
+      "id": 2,
+      "title": "Cara Nonton Anime dengan Auto Next Episode",
+      "description": "Klik tombol Eps.Berikutnya",
+      "containVideo": false,
+      "urlVideo": "",
+      "titleVideo": "",
+      "thumbnailVideo": ""
+    },
+    {
+      "id": 3,
+      "title": "Cara Mendapatkan Poin ketika Nonton Anime",
+      "description": "Gampang nuyul aja",
+      "containVideo": true,
+      "urlVideo": "",
+      "titleVideo": "",
+      "thumbnailVideo": ""
+    },
+    {
+      "id": 4,
+      "title": "Cara Mendapatkan Poin ketika Nonton Anime",
+      "description": "Gampang nuyul aja",
+      "containVideo": true,
+      "urlVideo": "W6I1xm49Lpw",
+      "titleVideo": "",
+      "thumbnailVideo": ""
+    },
+    {
+      "id": 5,
+      "title": "Cara Mendapatkan Poin ketika Nonton Anime",
+      "description": "Gampang nuyul aja",
+      "containVideo": true,
+      "urlVideo": "W6I1xm49Lpw",
+      "titleVideo": "",
+      "thumbnailVideo": ""
+    }
+  ]
