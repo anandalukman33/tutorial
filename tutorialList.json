@@ -1,29 +1,38 @@
 [
-  {
-    "id": 1,
-    "title": "Catatan Feature di Obasaka!",
-    "description": "<p>Versi 17.+&nbsp;</p><ul><li>Revamp Player Video Episode Anime</li><li>Pembaharuan Claim Poin</li><li>Penambahan komentar disetiap episode Anime</li><li>Penambahan feature download episode</li><li>Penambahan halaman Tutorial</li><li>Perubahan Tampilan Anime List (Halaman Pencarian Anime)</li><li>Memberikan Detail Mini Anime ketika klik tahan pada item di Anime List&nbsp;(Halaman Pencarian Anime)</li></ul><p>&nbsp;</p><p>Versi 18.+&nbsp;</p><ul><li>Penambahan Library Anime (Category dan List Anime dipisah)</li><li>Penambahan Pagination Feature</li><li>Pemindahan OnGoing dan Movie ke Halaman List Lokal yang sama dengan halaman Abjad Anime</li><li>Menghapus Iklan ketika tap 10x di halaman mode off earn</li><li>Handling Leak Loading Animation Player Video</li><li>Menambahkan Halaman Pengaturan di Profile</li><li>Menambahkan feature Auto Clear Cache saat menonton</li><li>Menambahkan feature restart Aplikasi</li><li>Menambahkan hyperlink button category ke halaman detail list category</li><li><em>Menambahkan fitur zoom di player video</em></li></ul><p>&nbsp;</p><p>Versi 19.+&nbsp;</p><ul><li>Menambahkan Feature Release Anime Ongoing di halaman beranda</li><li>Mengimprove tampilan Ongoing List di home.</li><li>Menambahkan user online di obasaka app</li><li>Menambahkan aktifitas User di obasaka app</li><li>Menambah feature berbayar (tidak ada iklan, mendapatkan badge vip, load optimasi di apk jadi cepat karena tidak ada iklan.)</li></ul><p>&nbsp;</p><p>Versi 20.+&nbsp;</p><ul><li>Memperbaiki service foreground pada android 12</li><li>Memperbaiki storing local db dari push notifikasi</li><li>Mengubah Splash Screen</li><li>Menambahkan loading splash</li><li>Integrasi Point User ke Server. (Aman kalau uninstall apk. karena sudah tersimpan pointnya di server)</li><li>Memperbaharui Tampilan Claim Point.</li><li>Mengubah kondisi dimana jika user tinggal 2 gb di internal storage maka ketika tutup aplikasi auto hapus cache</li><li>Memblock internal data user yang hampir habis ketika ingin menonton.</li><li>Menambahkan platform ads baru.</li><li>Menambahkan iklan ketika di detail anime. (setiap muncul iklan, pas buka lagi ga ada iklan, pas gada iklan value direset dan pas dibuka lagi akan ada iklan, seterusnya seperti itu.)</li><li>Memperbaharui versi player</li></ul><p>&nbsp;</p>",
-    "containVideo": false,
-    "urlVideo": "",
-    "titleVideo": "",
-    "thumbnailVideo": ""
-  },
-  {
-    "id": 2,
-    "title": "Cara Mendapatkan Poin ketika Nonton Anime",
-    "description": "<p>Caranya cukup mudah.</p><ol><li>Pertama cari anime yang ingin kalian pilih.</li><li>Kedua aktifkan switchnya sampai warna biru dan sampai ada notif <strong>mode earn aktif</strong></li><li>Ketiga tunggu hitungan mundur sampai berubah menjadi tombol bacaan <strong>claim point</strong></li><li>Keempat ketika sudah klik tombol claim point di player, silahkan tunggu lagi waktu hitungan mundur. jika ada iklan segera di close iklannya.</li><li>Kelima apabila sudah selesai maka akan muncul loading progress, dan tunggu sampai ada tampilan saldo mu ditambah dari claim saat itu juga.</li></ol>",
-    "containVideo": true,
-    "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121271&authkey=ABU3eD0EWKa2Z7E",
-    "titleVideo": "Biar Paham Lihat Video Ini",
-    "thumbnailVideo": "https://img.freepik.com/free-vector/youtube-tutorial-concept-illustration_114360-2807.jpg"
-  },
-  {
-    "id": 3,
-    "title": "Cara Mendownload Episode",
-    "description": "<p>Cara ini <strong>tetap</strong> <strong>membutuhkan koneksi internet</strong> <strong>yah</strong>, karena data semua ada di server backend.</p><p>Jadi pertama - tama buka halaman detail Anime (pilih anime yang ingin kalian download episodenya)</p><p>Klik tahan pada list sampai keluar pop up seperti ini</p><p><img src=\"https://i.ibb.co/HKwxYt8/5.png\" alt=\"\" width=\"285\" height=\"285\" /></p><p>&nbsp;</p><p>Klik tombol download.</p><p>Tunggu sampai indikator di notifikasi sampai full atau keluar notifikasi kalau episode tersebut sudah selesai terdownload.</p><p>Selamat Episode tersebut ketika diplay sudah tidak membutuhkan data koneksi ketika streaming.</p><p><strong>Note</strong>: sebenernya sama aja ketika kalian play episode, cuman ini request dari seseorang supaya memudahkan ketika ada kuota banyak tapi belum mau nonton sekarang...</p>",
-    "containVideo": true,
-    "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121237&authkey=ADc2Fnc-ag6YOsY",
-    "titleVideo": "Sama aja kayak nonton biasanya, cuman bisa download dahulu tanpa nonton",
-    "thumbnailVideo": "https://webdevolutions.blob.core.windows.net/cms/Remote_Desktop_Manager_Setting_Offline_Mode_9b6dfa994d.png"
-  }
+    {
+        "id": 1,
+        "title": "Catatan Feature di Obasaka!",
+        "description": "<p>Versi 17.+&nbsp;</p><ul><li>Revamp Player Video Episode Anime</li><li>Pembaharuan Claim Poin</li><li>Penambahan komentar disetiap episode Anime</li><li>Penambahan feature download episode</li><li>Penambahan halaman Tutorial</li><li>Perubahan Tampilan Anime List (Halaman Pencarian Anime)</li><li>Memberikan Detail Mini Anime ketika klik tahan pada item di Anime List&nbsp;(Halaman Pencarian Anime)</li></ul><p>&nbsp;</p><p>Versi 18.+&nbsp;</p><ul><li>Penambahan Library Anime (Category dan List Anime dipisah)</li><li>Penambahan Pagination Feature</li><li>Pemindahan OnGoing dan Movie ke Halaman List Lokal yang sama dengan halaman Abjad Anime</li><li>Menghapus Iklan ketika tap 10x di halaman mode off earn</li><li>Handling Leak Loading Animation Player Video</li><li>Menambahkan Halaman Pengaturan di Profile</li><li>Menambahkan feature Auto Clear Cache saat menonton</li><li>Menambahkan feature restart Aplikasi</li><li>Menambahkan hyperlink button category ke halaman detail list category</li><li><em>Menambahkan fitur zoom di player video</em></li></ul><p>&nbsp;</p><p>Versi 19.+&nbsp;</p><ul><li>Menambahkan Feature Release Anime Ongoing di halaman beranda</li><li>Mengimprove tampilan Ongoing List di home.</li><li>Menambahkan user online di obasaka app</li><li>Menambahkan aktifitas User di obasaka app</li><li>Menambah feature berbayar (tidak ada iklan, mendapatkan badge vip, load optimasi di apk jadi cepat karena tidak ada iklan.)</li></ul><p>&nbsp;</p><p>Versi 20.+&nbsp;</p><ul><li>Memperbaiki service foreground pada android 12</li><li>Memperbaiki storing local db dari push notifikasi</li><li>Mengubah Splash Screen</li><li>Menambahkan loading splash</li><li>Integrasi Point User ke Server. (Aman kalau uninstall apk. karena sudah tersimpan pointnya di server)</li><li>Memperbaharui Tampilan Claim Point.</li><li>Mengubah kondisi dimana jika user tinggal 2 gb di internal storage maka ketika tutup aplikasi auto hapus cache</li><li>Memblock internal data user yang hampir habis ketika ingin menonton.</li><li>Menambahkan platform ads baru.</li><li>Menambahkan iklan ketika di detail anime. (setiap muncul iklan, pas buka lagi ga ada iklan, pas gada iklan value direset dan pas dibuka lagi akan ada iklan, seterusnya seperti itu.)</li><li>Memperbaharui versi player</li></ul><p>&nbsp;</p>",
+        "containVideo": false,
+        "urlVideo": "",
+        "titleVideo": "",
+        "thumbnailVideo": ""
+    },
+    {
+        "id": 2,
+        "title": "Cara Mendapatkan Poin ketika Nonton Anime",
+        "description": "<p>Caranya cukup mudah.</p><ol><li>Pertama cari anime yang ingin kalian pilih.</li><li>Kedua aktifkan switchnya sampai warna biru dan sampai ada notif <strong>mode earn aktif</strong></li><li>Ketiga tunggu hitungan mundur sampai berubah menjadi tombol bacaan <strong>claim point</strong></li><li>Keempat ketika sudah klik tombol claim point di player, silahkan tunggu lagi waktu hitungan mundur. jika ada iklan segera di close iklannya.</li><li>Kelima apabila sudah selesai maka akan muncul loading progress, dan tunggu sampai ada tampilan saldo mu ditambah dari claim saat itu juga.</li></ol>",
+        "containVideo": true,
+        "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121271&authkey=ABU3eD0EWKa2Z7E",
+        "titleVideo": "Biar Paham Lihat Video Ini",
+        "thumbnailVideo": "https://img.freepik.com/free-vector/youtube-tutorial-concept-illustration_114360-2807.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Cara Mendownload Episode",
+        "description": "<p>Cara ini <strong>tetap</strong> <strong>membutuhkan koneksi internet</strong> <strong>yah</strong>, karena data semua ada di server backend.</p><p>Jadi pertama - tama buka halaman detail Anime (pilih anime yang ingin kalian download episodenya)</p><p>Klik tahan pada list sampai keluar pop up seperti ini</p><p><img src=\"https://i.ibb.co/HKwxYt8/5.png\" alt=\"\" width=\"285\" height=\"285\" /></p><p>&nbsp;</p><p>Klik tombol download.</p><p>Tunggu sampai indikator di notifikasi sampai full atau keluar notifikasi kalau episode tersebut sudah selesai terdownload.</p><p>Selamat Episode tersebut ketika diplay sudah tidak membutuhkan data koneksi ketika streaming.</p><p><strong>Note</strong>: sebenernya sama aja ketika kalian play episode, cuman ini request dari seseorang supaya memudahkan ketika ada kuota banyak tapi belum mau nonton sekarang...</p>",
+        "containVideo": true,
+        "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121237&authkey=ADc2Fnc-ag6YOsY",
+        "titleVideo": "Sama aja kayak nonton biasanya, cuman bisa download dahulu tanpa nonton",
+        "thumbnailVideo": "https://webdevolutions.blob.core.windows.net/cms/Remote_Desktop_Manager_Setting_Offline_Mode_9b6dfa994d.png"
+    },
+    {
+        "id": 4,
+        "title": "Cara Optimasi Aplikasi Obasaka untuk Hape Kentang",
+        "description": "<p>Langkah Pertama yang dapat kalian lakukan adalah :&nbsp;</p><ol><li>Lakukan pemberhentian paksa (<em>force stop</em>) pada aplikasi selain di obasaka.</li><li>Atau kalian bisa pakai Kill Apps Pro yang sudah disediakan ini : <a href=\"https://bit.ly/killAppsProObasaka\">Direct Link Download</a></li><li>Lalu kalian bisa pakai feature&nbsp;<strong>Otomatis Hapus Cache&nbsp;</strong>yang dimana akan terhapus setiap kalian menutup aplikasi yang saat keluar dari menu beranda tekan back muncul pop \"Apakah kamu yakin ingin keluar dari aplikasi ini\" kamu tekan iya, maka akan terhapus cache video sebelumnya, kalau di berhentikan paksa maka gak akan terhapus cachenya.</li><li>dan satu lah, pastikan pas baru install pertama kali, kalian ke menu setting, lalu pilih Tombol Restart Aplikasi, supaya service diobasaka dapat dimatikan secara otomatis saat keluar dari aplikasi.</li><li>Kalau masih binggung bisa tanya-tanya di menu chat.</li></ol>",
+        "containVideo": true,
+        "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121272&authkey=ALtXiypqduXCMLU",
+        "titleVideo": "Pastikan baca deskripsi dan videonya semoga bisa membantu!",
+        "thumbnailVideo": "https://icreativelabs.com/blog/wp-content/uploads/2020/05/Jasa-Optimasi-Speed-WordPress-Murah.png"
+    }
 ]
