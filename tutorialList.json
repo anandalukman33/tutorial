@@ -2,14 +2,22 @@
     {
         "id": 1,
         "title": "Catatan Feature di Obasaka!",
-        "description": "<p>Versi 17.+&nbsp;</p><ul><li>Revamp Player Video Episode Anime</li><li>Pembaharuan Claim Poin</li><li>Penambahan komentar disetiap episode Anime</li><li>Penambahan feature download episode</li><li>Penambahan halaman Tutorial</li><li>Perubahan Tampilan Anime List (Halaman Pencarian Anime)</li><li>Memberikan Detail Mini Anime ketika klik tahan pada item di Anime List&nbsp;(Halaman Pencarian Anime)</li></ul><p>&nbsp;</p><p>Versi 18.+&nbsp;</p><ul><li>Penambahan Library Anime (Category dan List Anime dipisah</li><li>Penambahan Pagination Feature</li><li>Pemindahan OnGoing dan Movie ke Halaman List Lokal yang sama dengan halaman Abjad Anime</li><li>Menghapus Iklan ketika tap 10x di halaman mode off earn</li><li>Handling Leak Loading Animation Player Video</li><li>Menambahkan Halaman Pengaturan di Profile</li><li>Menambahkan feature Auto Clear Cache saat menonton</li><li>Menambahkan feature restart Aplikasi</li><li>Menambahkan hyperlink button category ke halaman detail list category</li><li><em>Menambahkan fitur zoom di player video</em></li></ul><p>&nbsp;</p><p>Versi 19.+&nbsp;</p><ul><li>Menambahkan Feature Release Anime Ongoing di halaman beranda</li><li>Mengimprove tampilan Ongoing List di home.</li><li>Menambahkan user online di obasaka app</li><li>Menambahkan aktifitas User di obasaka app</li><li>Menambah feature berbayar (tidak ada iklan, mendapatkan badge vip, load optimasi di apk jadi cepat karena tidak ada iklan.)</li></ul><p>&nbsp;</p><p>Versi 20.+&nbsp;</p><ul><li>Memperbaiki service foreground pada android 12</li><li>Memperbaiki storing local db dari push notifikasi</li><li>Mengubah Splash Screen</li><li>Menambahkan loading splash</li><li>Integrasi Point User ke Server. (Aman kalau uninstall apk. karena sudah tersimpan pointnya di server)</li><li>Memperbaharui Tampilan Claim Point.</li><li>Mengubah kondisi dimana jika user tinggal 2 gb di internal storage maka ketika tutup aplikasi auto hapus cache</li><li>Memblock internal data user yang hampir habis ketika ingin menonton.</li><li>Menambahkan platform ads baru.</li><li>Menambahkan iklan ketika di detail anime. (setiap muncul iklan, pas buka lagi ga ada iklan, pas gada iklan value direset dan pas dibuka lagi akan ada iklan, seterusnya seperti itu.)</li><li>Memperbaharui versi player</li></ul><p>&nbsp;</p><p>Versi 21.+&nbsp;</p><ul><li>Mengubah preload video (saat streaming auto download) menjadi feature premium, hal ini diubah untuk tidak terlalu membebani server streaming</li><li>Menambahkan tombol download di setiap episode (sama seperti klik tahan di itemlist.)</li><li>Menambahkan feature auto complete di pencarian pada halaman home (beranda) agar user dapat mencari anime lebih cepat.</li><li>Feature download dibatasi hingga 12x dalam sehari, (jadi ketika sudah mencapai 12x quota downloadnya maka delay berlangsung sampai 1 hari agar dapat mendownload kembali)</li><li>Memperbaiki kondisi saat internal storage penuh ketika mau menonton.</li></ul>",
+        "description": "<p>Versi 17.+&nbsp;</p><ul><li>Revamp Player Video Episode Anime</li><li>Pembaharuan Claim Poin</li><li>Penambahan komentar disetiap episode Anime</li><li>Penambahan feature download episode</li><li>Penambahan halaman Tutorial</li><li>Perubahan Tampilan Anime List (Halaman Pencarian Anime)</li><li>Memberikan Detail Mini Anime ketika klik tahan pada item di Anime List&nbsp;(Halaman Pencarian Anime)</li></ul><p>&nbsp;</p><p>Versi 18.+&nbsp;</p><ul><li>Penambahan Library Anime (Category dan List Anime dipisah</li><li>Penambahan Pagination Feature</li><li>Pemindahan OnGoing dan Movie ke Halaman List Lokal yang sama dengan halaman Abjad Anime</li><li>Menghapus Iklan ketika tap 10x di halaman mode off earn</li><li>Handling Leak Loading Animation Player Video</li><li>Menambahkan Halaman Pengaturan di Profile</li><li>Menambahkan feature Auto Clear Cache saat menonton</li><li>Menambahkan feature restart Aplikasi</li><li>Menambahkan hyperlink button category ke halaman detail list category</li><li><em>Menambahkan fitur zoom di player video</em></li></ul><p>&nbsp;</p><p>Versi 19.+&nbsp;</p><ul><li>Menambahkan Feature Release Anime Ongoing di halaman beranda</li><li>Mengimprove tampilan Ongoing List di home.</li><li>Menambahkan user online di obasaka app</li><li>Menambahkan aktifitas User di obasaka app</li><li>Menambah feature berbayar (tidak ada iklan, mendapatkan badge vip, load optimasi di apk jadi cepat karena tidak ada iklan.)</li></ul><p>&nbsp;</p><p>Versi 20.+&nbsp;</p><ul><li>Memperbaiki service foreground pada android 12</li><li>Memperbaiki storing local db dari push notifikasi</li><li>Mengubah Splash Screen</li><li>Menambahkan loading splash</li><li>Integrasi Point User ke Server. (Aman kalau uninstall apk. karena sudah tersimpan pointnya di server)</li><li>Memperbaharui Tampilan Claim Point.</li><li>Mengubah kondisi dimana jika user tinggal 2 gb di internal storage maka ketika tutup aplikasi auto hapus cache</li><li>Memblock internal data user yang hampir habis ketika ingin menonton.</li><li>Menambahkan platform ads baru.</li><li>Menambahkan iklan ketika di detail anime. (setiap muncul iklan, pas buka lagi ga ada iklan, pas gada iklan value direset dan pas dibuka lagi akan ada iklan, seterusnya seperti itu.)</li><li>Memperbaharui versi player</li></ul><p>&nbsp;</p><p>Versi 21.+&nbsp;</p><ul><li>Mengubah preload video (saat streaming auto download) menjadi feature premium, hal ini diubah untuk tidak terlalu membebani server streaming</li><li>Menambahkan tombol download di setiap episode (sama seperti klik tahan di itemlist.)</li><li>Menambahkan feature auto complete di pencarian pada halaman home (beranda) agar user dapat mencari anime lebih cepat.</li><li>Feature download dibatasi hingga 12x dalam sehari, (jadi ketika sudah mencapai 12x quota downloadnya maka delay berlangsung sampai 1 hari agar dapat mendownload kembali)</li><li>Memperbaiki kondisi saat internal storage penuh ketika mau menonton.</li></ul><p>&nbsp;</p><p>Versi 22.+</p><ul><li>Mengubah konfigurasi download hanya untuk user premium</li><li>Menambahkan halaman detail vip plan order di menu profile -&gt; tanpa iklan</li><li>Menambahkan kartu identitas bagi pengguna VIP.</li><li>Menambahkan feature retry server, yaitu ketika ada link streaming yang kena limit maka akan mencoba pada server lainnya. (Max 3 Server Backup)</li><li>Note: Anime masih lumayan banyak yang belum di backupin, bagi kalian yang ingin nonton tapi kena limit, tolong di chat yah di menu chat.</li></ul>",
         "containVideo": false,
         "urlVideo": "",
         "titleVideo": "",
         "thumbnailVideo": ""
     },
-    {
+     {
         "id": 2,
+        "title" : "Min Kok Pembayaran tidak melalui playstore?",
+        "description": "<p>Mohon maaf dari keputusan kami, pembayaran langsung ke bagian nomor sales dituju, nomor sales sudah terintegrasi dengan bot auto reply, bagi kalian yang ingin mengorder cukup ke menu profile pilih icon dengan nama <strong>Tanpa Iklan</strong>,&nbsp; lalu pilih Plan VIP berapa, dan klik tombol Berlangganan Sekarang.<br />Catatan Command AutoReply :&nbsp;</p><ul><li>order --&gt; Perintah untuk menjabarkan detail perintah untuk vip 1 s/d 3</li><li>vip1 --&gt; Perintah untuk mengetahui detail plan, harga dan via pembayaran.</li><li>vip2 --&gt;&nbsp;Perintah untuk mengetahui detail plan, harga dan via pembayaran.</li><li>vip3 --&gt;Perintah untuk mengetahui detail plan, harga dan via pembayaran.</li></ul>",
+        "urlVideo": false,
+        "titleVideo": "",
+        "thumbnailVideo": ""
+    },
+    {
+        "id": 3,
         "title": "Kok Ada Video yang tidak bisa diplay?",
         "description": "<p>Terkait hal tersebut ada beberapa faktor, karena kebanyakan video dari obasaka belum memakai feature HLS alias belum ada server sendiri untuk ngecache file dari drive.<br />Jadi dari seluruh file terkena limit download (stream) maka secara global user tetap kena.<br />Untuk hal ini mohon maaf kami akan segera menangani hal tersebut dengan memakai third party sehingga dapat dijalankan sebagai video HLS, untuk mengurangi beban request ke drive.</p>",
         "containVideo": false,
@@ -18,7 +26,7 @@
         "thumbnailVideo": ""
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Cara Mendapatkan Poin ketika Nonton Anime",
         "description": "<p>Caranya cukup mudah.</p><ol><li>Pertama cari anime yang ingin kalian pilih.</li><li>Kedua aktifkan switchnya sampai warna biru dan sampai ada notif <strong>mode earn aktif</strong></li><li>Ketiga tunggu hitungan mundur sampai berubah menjadi tombol bacaan <strong>claim point</strong></li><li>Keempat ketika sudah klik tombol claim point di player, silahkan tunggu lagi waktu hitungan mundur. jika ada iklan segera di close iklannya.</li><li>Kelima apabila sudah selesai maka akan muncul loading progress, dan tunggu sampai ada tampilan saldo mu ditambah dari claim saat itu juga.</li></ol>",
         "containVideo": true,
@@ -27,7 +35,7 @@
         "thumbnailVideo": "https://img.freepik.com/free-vector/youtube-tutorial-concept-illustration_114360-2807.jpg"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Cara Mendownload Episode",
         "description": "<p>Cara ini <strong>tetap</strong> <strong>membutuhkan koneksi internet</strong> <strong>yah</strong>, karena data semua ada di server backend.</p><p>Jadi pertama - tama buka halaman detail Anime (pilih anime yang ingin kalian download episodenya)</p><p>Klik tahan pada list sampai keluar pop up seperti ini</p><p><img src=\"https://i.ibb.co/HKwxYt8/5.png\" alt=\"\" width=\"285\" height=\"285\" /></p><p>&nbsp;</p><p>Klik tombol download.</p><p>Tunggu sampai indikator di notifikasi sampai full atau keluar notifikasi kalau episode tersebut sudah selesai terdownload.</p><p>Selamat Episode tersebut ketika diplay sudah tidak membutuhkan data koneksi ketika streaming.</p><p><strong>Note</strong>: sebenernya sama aja ketika kalian play episode, cuman ini request dari seseorang supaya memudahkan ketika ada kuota banyak tapi belum mau nonton sekarang...</p>",
         "containVideo": true,
@@ -36,7 +44,7 @@
         "thumbnailVideo": "https://webdevolutions.blob.core.windows.net/cms/Remote_Desktop_Manager_Setting_Offline_Mode_9b6dfa994d.png"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Cara Optimasi Aplikasi Obasaka untuk Hape Kentang",
         "description": "<p>Langkah Pertama yang dapat kalian lakukan adalah :&nbsp;</p><ol><li>Lakukan pemberhentian paksa (<em>force stop</em>) pada aplikasi selain di obasaka.</li><li>Atau kalian bisa pakai Kill Apps Pro yang sudah disediakan ini : <a href=\"https://bit.ly/killAppsProObasaka\">Direct Link Download</a></li><li>Lalu kalian bisa pakai feature&nbsp;<strong>Otomatis Hapus Cache&nbsp;</strong>yang dimana akan terhapus setiap kalian menutup aplikasi yang saat keluar dari menu beranda tekan back muncul pop \"Apakah kamu yakin ingin keluar dari aplikasi ini\" kamu tekan iya, maka akan terhapus cache video sebelumnya, kalau di berhentikan paksa maka gak akan terhapus cachenya.</li><li>dan satu lagi, pastikan pas baru install pertama kali, kalian ke menu setting, lalu pilih Tombol Restart Aplikasi, supaya service diobasaka dapat dimatikan secara otomatis saat keluar dari aplikasi.</li><li>Kalau masih binggung bisa tanya-tanya di menu chat.</li></ol>",
         "containVideo": true,
@@ -45,7 +53,7 @@
         "thumbnailVideo": "https://icreativelabs.com/blog/wp-content/uploads/2020/05/Jasa-Optimasi-Speed-WordPress-Murah.png"
     },
     {
-        "id": 6,
+        "id": 7,
         "title" : "Cara terhindar Limit dari Server Streaming",
         "description": "<p>Tips bagaimana cara terhindar dari limit server :&nbsp;</p><p>caranya cukup simple yaitu :&nbsp;</p><ol><li>Silahkan download VPN yang kami rekomendasikan FREE tapi fullspeed yaitu pakai&nbsp;<strong>Proton vpn</strong></li><li>Linknya ini : <a href=\"https://play.google.com/store/apps/details?id=ch.protonvpn.android&amp;utm_campaign=ww-all-2c-vpn-gro_aso-website_link_to_app_stores&amp;utm_source=protonvpn.com&amp;utm_medium=link&amp;utm_content=download_vpn_-_android&amp;utm_term=hero_button\">Download Proton VPN di Playstore</a></li><li>Pilih Rekomendasi yang Jepang. Kalau belanda suka ke blokir, Amerika Kurang Cepat. Jadi disarankan pakai yang Jepang yah</li></ol>",
         "urlVideo": false,
@@ -53,9 +61,17 @@
         "thumbnailVideo": ""
     },
     {
-        "id": 7,
+        "id": 8,
         "title" : "Kok anime baru tidak muncul yah di beranda?",
         "description": "<p>Bagi kalian yang mengalami hal serupa seperti anime requestan kalian sudah selesai ditambahkan tapi tidak muncul di anime terbaru pada halaman beranda (home) pastikan kalian keluar aplikasi dengan benar yaitu dengan cara :&nbsp;</p><ul><li>Pada menu beranda kalian back saja atau klik tombol back di device (smartphone) kalian, pastikan keluar dialog (<em>Apakah kamu yakin ingin keluar dari aplikasi ini</em>)</li><li>Silahkan kalian klik Iya, lalu masuk kembali.</li><li>Karena selama kalian tidak melakukan hal ini, anime akan tampil sesuai terakhir kali kalian melakukan keluar aplikasi seperti itu, secara sistemnya ketika kamu baru masuk aplikasi, aplikasi obasaka akan mengambil data home (beranda) lalu di simpan ke root local data, sebagai bentuk mempercepat load data.</li><li>Atau kalian bisa juga melakukan swipe refresh untuk menangani hal ini.</li></ul>",
+        "urlVideo": false,
+        "titleVideo": "",
+        "thumbnailVideo": ""
+    },
+    {
+        "id": 9,
+        "title" : "Kok sekarang ga bisa download anime?",
+        "description": "Mohon maaf saat ini fitur download hanya bisa digunakan oleh pengguna vip, yang dimana user vip harus mengaktifkan feature preload di menu setting. baru akan terbuka featurenya dengan tampilan background hijau. dan feature tahan item episode sudah di take out/di hapus.",
         "urlVideo": false,
         "titleVideo": "",
         "thumbnailVideo": ""
