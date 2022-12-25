@@ -83,7 +83,7 @@
     {
         "id": 10,
         "title" : "Min Kok aplikasinya ga keluar notification yah?",
-        "description": "Mohon maaf saat ini fitur download hanya bisa digunakan oleh pengguna vip, yang dimana user vip harus mengaktifkan feature preload di menu setting. baru akan terbuka featurenya dengan tampilan background hijau. dan feature tahan item episode sudah di take out/di hapus.",
+        "description": "Silahkan kalian ikuti video diatas ini, untuk menonaktifkan feature hemat daya yang secara default obasaka masuk ke dalam kondisi tersebut. Jadi kalian harus mengecualikan obasaka sebagai aplikasi yang memakai feauture hemat daya<br><br>note: sebagai informasi obasaka hanya menjalankan service push notification saja, tidak ada lagi selain itu, jadi walaupun obasaka berjalan di latar belakang, tidak mengambil banyak resource ram di device kamu",
         "urlVideo": "https://onedrive.live.com/download?cid=DA5D0CC935EF91F8&resid=DA5D0CC935EF91F8%2121299&authkey=ADdLaT7CoR58yJA",
         "containVideo": true,
         "titleVideo": "Cara membuat obasaka lebih kencang di performa!",
